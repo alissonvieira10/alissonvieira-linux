@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Alisson Vieira</h1>
 <h3 align="center">Javascript & Typescript | Apaixonado por tecnologia <3</h3>
 
-- 🔭 Programador Mobile Jr na **web.art group**
+
 
 <h3 align="left">Me encontre nas redes sociais:</h3>
 <p align="left">
