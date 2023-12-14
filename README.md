@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Alisson Vieira</h1>
-<h3 align="center">Javascript & Typescript | Apaixonado por tecnologia <3</h3>
+<h3 align="center">Javascript | Typescript | PHP | Apaixonado por tecnologia <3</h3>
 
 
 
